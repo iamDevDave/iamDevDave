@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Next.js, python **
 - 💬 Ask me about **Contribute **
-- 📫 How to reach me **devdave095@gmail.com**
+- 📫 How to reach me **dev.dave.0h@gmail.com**
 - 👨‍💻 All of my projects are available at **https://skill-sync-alfa.vercel.app/**
 
 <div> <a href="https://www.linkedin.com/in/iamdevdave" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
